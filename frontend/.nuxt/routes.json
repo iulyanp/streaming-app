@@ -1,0 +1,18 @@
+[
+  {
+    "name": "player-name",
+    "path": "/player/:name?",
+    "component": "/Users/iulian.popa/www/streaming-app/frontend/pages/player/_name.vue",
+    "chunkName": "pages/player/_name"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/iulian.popa/www/streaming-app/frontend/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
+ame": "pages/index",
+    "_name": "_5a08f37a"
+  }
+]
